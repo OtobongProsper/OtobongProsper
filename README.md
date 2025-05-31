@@ -1,4 +1,4 @@
- ##     HI, I’M OTO-OBONG INYANG (OtobongProsper)
+ ##     HI, I’M OTOBONGPROSPER
   Welcome to my GitHub portfolio! I'm a Data Analyst passionate about telling stories through data, technology, and solving real-world problems using data analytics and visualization.
 
   ##     ABOUT ME

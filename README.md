@@ -14,7 +14,7 @@
   
 ##      PROJECTS
 
-[Personal Financial Tracker Dashboard Project](https://github.com/users/OtobongProsper/projects/1/views/1)
+[Personal Financial Tracker](https://github.com/OtobongProsper/Personal-Financial-Tracker.git)
    
 ##      I’M LOOKING TO COLLABORATE ON:
 - 📊 Data Analysis or Visualization Projects

@@ -13,6 +13,8 @@
 - 🌍 I'm interested in **health data analytics, sales data analytics, educational data analytics**, automation, and building dashboards to drive impactful decisions.
   
 ##      PROJECTS
+
+[Personal Financial Tracker Dashboard Project]()
    
 ##      I’M LOOKING TO COLLABORATE ON:
 - 📊 Data Analysis or Visualization Projects
